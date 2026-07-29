@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class madLibsGame {
 
+public class madLibsGame {
     public static void main(String[] args){
 //        MAD LIBS GAME
         Scanner scanner = new Scanner(System.in);
@@ -27,10 +27,6 @@ public class madLibsGame {
         System.out.println("I ws "+ adjective3 + "!");
 
         scanner.close();
-
-
-
-
 
     }
 }
