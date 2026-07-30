@@ -1,4 +1,4 @@
-//for user input to accept scanner
+package basics;//for user input to accept scanner
 import java.util.Scanner;
 
 public class UserInput {
