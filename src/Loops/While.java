@@ -50,5 +50,6 @@ public class While {
         scanner.close();
 
 
+
     }
 }
