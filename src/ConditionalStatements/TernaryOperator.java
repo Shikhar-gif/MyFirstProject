@@ -12,5 +12,9 @@ public class TernaryOperator {
         System.out.println(timeOfDay);
 
 
+
+
+
+
     }
 }
