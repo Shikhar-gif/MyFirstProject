@@ -1,4 +1,4 @@
-package basics;
+package ConditionalStatements;
 
 import java.util.Scanner;
 public class ifStatements {

@@ -1,6 +1,4 @@
-package basics;
-
-import java.util.Locale;
+package ConditionalStatements;
 
 public class NestedIf {
     public static void main(String[] args) {
